@@ -1,1 +1,3 @@
-# practice
+# my first repo
+
+thhhhhis is my first...
